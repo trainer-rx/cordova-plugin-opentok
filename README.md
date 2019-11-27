@@ -1,3 +1,13 @@
+## ABOUT
+
+This is a fork of the cordova opentok plugin (https://github.com/trainer-rx/cordova-plugin-opentok)
+At the time of the fork (nov 2019), the latest release of the plugin (3.4.3, jan 2019) was not compatible with Cordova 9
+There was an existing PR fixing the issue that had not been merged yet (https://github.com/opentok/cordova-plugin-opentok/pull/174)
+
+In the future we should consider moving back to the original plugin once it has been updated
+
+Below is the original README
+
 # Cordova Plugin for OpenTok iOS and Android
 ![OpenTok Labs](https://d26dzxoao6i3hh.cloudfront.net/items/0U1R0a0e2g1E361H0x3c/Image%202017-11-22%20at%2012.16.38%20PM.png?v=2507a2df)
 
