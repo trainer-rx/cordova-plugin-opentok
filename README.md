@@ -1,4 +1,12 @@
-# Cordova Plugin for OpenTok iOS and Android
+## ABOUT
+
+This is a fork of the cordova opentok plugin (https://github.com/opentok/cordova-plugin-opentok)
+At the time of the fork (June 2021), the latest release of the plugin was not compatible with the latest Andriod and IOS SDKs
+There was an existing PR fixing the issue that had not been merged yet (https://github.com/opentok/cordova-plugin-opentok/pull/204)
+
+In the future we should consider moving back to the original plugin once it has been updated
+
+Below is the original README# Cordova Plugin for OpenTok iOS and Android
 
 <img src="https://assets.tokbox.com/img/vonage/Vonage_VideoAPI_black.svg" height="48px" alt="Tokbox is now known as Vonage" />
 
