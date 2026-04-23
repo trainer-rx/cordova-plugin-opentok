@@ -1,7 +1,8 @@
 ## ABOUT
 
-This is a fork of the cordova opentok plugin (https://github.com/trainer-rx/cordova-plugin-opentok)
-At the time of the fork (nov 2019), the latest release of the plugin (3.4.3, jan 2019) was not compatible with Cordova 9
+This repo is no longer in use - the trainer-rx repo has migrated from opentok to zoom for appointment functionality.
+
+**History:** This is a fork of the cordova opentok plugin. At the time of the fork (nov 2019), the latest release of the plugin (3.4.3, jan 2019) was not compatible with Cordova 9
 There was an existing PR fixing the issue that had not been merged yet (https://github.com/opentok/cordova-plugin-opentok/pull/174)
 
 In the future we should consider moving back to the original plugin once it has been updated
